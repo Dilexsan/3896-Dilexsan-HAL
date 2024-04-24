@@ -34,5 +34,6 @@ function App() {
 }
 
 // this is comment
+// this is the second test comment
 
 export default App
